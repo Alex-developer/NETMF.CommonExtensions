@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetMf.CommonExtensions", "NetMf.CommonExtensions\NetMf.CommonExtensions.csproj", "{58F72289-F396-4CCA-8120-B7179C05FF99}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test.NetMf.CommonExtensions", "Test.NetMf.CommonExtensions\Test.NetMf.CommonExtensions.csproj", "{D46980D4-AF9F-4262-8605-8AF42F41BA99}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{58F72289-F396-4CCA-8120-B7179C05FF99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58F72289-F396-4CCA-8120-B7179C05FF99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58F72289-F396-4CCA-8120-B7179C05FF99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58F72289-F396-4CCA-8120-B7179C05FF99}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D46980D4-AF9F-4262-8605-8AF42F41BA99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D46980D4-AF9F-4262-8605-8AF42F41BA99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D46980D4-AF9F-4262-8605-8AF42F41BA99}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{D46980D4-AF9F-4262-8605-8AF42F41BA99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D46980D4-AF9F-4262-8605-8AF42F41BA99}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D46980D4-AF9F-4262-8605-8AF42F41BA99}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		VisualSVNWorkingCopyRoot = .
+	EndGlobalSection
+EndGlobal
